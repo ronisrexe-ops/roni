@@ -1,0 +1,53 @@
+
+{
+  "name": "GoDog - כל כלב חייב את GoDog",
+  "short_name": "GoDog",
+  "description": "הפלטפורמה המקצועית בישראל לבעלי כלבים. כי כל כלב חייב את GoDog.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#4f46e5",
+  "theme_color": "#4f46e5",
+  "orientation": "portrait",
+  "categories": ["pets", "lifestyle", "social"],
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/616/616408.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/616/616408.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "מצא דוג-ווקר",
+      "url": "/#walking",
+      "icons": [{ "src": "https://cdn-icons-png.flaticon.com/512/616/616408.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "הכלבים שלי",
+      "url": "/#mydogs",
+      "icons": [{ "src": "https://cdn-icons-png.flaticon.com/512/616/616408.png", "sizes": "192x192" }]
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "https://images.unsplash.com/photo-1543466835-00a7907e9de1?auto=format&fit=crop&q=80&w=800",
+      "sizes": "800x600",
+      "type": "image/jpeg",
+      "form_factor": "wide",
+      "label": "מסך הבית של GoDog"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1583511655857-d19b40a7a54e?auto=format&fit=crop&q=80&w=800",
+      "sizes": "390x844",
+      "type": "image/jpeg",
+      "label": "אקדמיית הכלבים"
+    }
+  ]
+}

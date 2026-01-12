@@ -1,0 +1,12 @@
+{
+  "name": "GoDog",
+  "short_name": "GoDog",
+  "description": "כל כלב חייב את GoDog - שירותי טיולים, אקדמיה, וטרינרים וניהול יומן חכם.",
+  "version": "1.0.1",
+  "author": "GoDog Team",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera",
+    "microphone"
+  ]
+}
